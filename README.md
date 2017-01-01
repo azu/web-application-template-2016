@@ -1,16 +1,26 @@
 # web-application-template-2016
 
-
+Temp.
 
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install web-application-template-2016
+    npm install
 
 ## Usage
 
-- [ ] Write usage instructions
+### Build
+
+	npm run build
+
+### Serve(Watch and Build)
+
+	npm start
+
+### Tests
+
+	npm test
 
 ## Changelog
 
